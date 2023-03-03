@@ -2,7 +2,7 @@
 
 ####################################################################
 
-Voici un projet de Blog réaliser sous Laravel avec un système de filtre ainsi qu'un CRUD pour les articles
+Voici un projet de Blog réaliser sous Laravel avec un système de filtre ainsi qu'un CRUD pour les articles<br>
 Nous avons un backoffice pour l'administrateur qui pourra gérer ses articles, ajouter, éditer & supprimer un article
 
 ####################################################################
